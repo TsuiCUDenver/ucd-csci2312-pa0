@@ -6,7 +6,8 @@
  */
 #include <iostream>
 
-int main() {
+int main()
+{
 
     std::cout << "Hello, world! My number is " << (106060236 % 13) << '!' << std::endl;
 
